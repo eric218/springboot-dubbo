@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * DubboConsumerApplication
  * 消费者启动类
  * @author xiaoze
- * @date 2018/6/71
+ * @date 2018/6/7
  */
 @EnableDubbo
 @SpringBootApplication
